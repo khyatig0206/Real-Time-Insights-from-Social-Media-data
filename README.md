@@ -52,7 +52,7 @@ The project was executed in two phases:
 * **Statistical Concepts:** Frequency distribution analysis, calculating normalized metrics for fair comparison.  
 * **Version Control:** Project structured for GitHub, including requirements.txt and README.md.
 
-## ** Results and Business Recommendation**
+##  Results and Business Recommendation
 
 | Influencer (Screen Name) | Followers | Normalized Engagement Rate | Key Insight |
 | :---- | :---- | :---- | :---- |
@@ -64,7 +64,7 @@ The project was executed in two phases:
 
 Marketing campaigns should prioritize influencers whose public image and content **align directly with the campaign's topic** (e.g., Lil Dicky being the creator of the Earth video) over those who merely possess the highest follower counts (e.g., Katy Perry). The Normalized Engagement Rate provides a quantitative, data-driven measure of campaign alignment and true influence.
 
-## ** Next Steps (Future Enhancements)**
+## **Next Steps (Future Enhancements)**
 
 The following steps could further enhance this project for production readiness:
 
